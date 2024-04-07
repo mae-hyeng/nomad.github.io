@@ -9,5 +9,3 @@ const bg = document.getElementsByClassName('bg')[0];
 bgImg.src = `img/${choseImg}`;
 
 bg.appendChild(bgImg);
-
-// document.body.style.backgroundImage = `url(img/${choseImg})`;

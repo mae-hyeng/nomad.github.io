@@ -9,5 +9,4 @@ function timer()
 
     clock.innerHTML = `${hour}h ${minute}m ${second}s`
 }
-
 setInterval(timer, 1000);

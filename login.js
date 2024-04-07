@@ -13,7 +13,6 @@ function login(e)
     result.innerText = `Hello ${id}!`;
     todoForm.classList.remove('hide')
 }
-
 btn.addEventListener("click", login);
 
 const userInfo = localStorage.getItem("id");

@@ -60,8 +60,3 @@ if (getToDoArr) {
     toDoArr = parseToDo;
     parseToDo.forEach(addList);
 }
-
-function filter()
-{
-
-}
