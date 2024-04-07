@@ -18,4 +18,4 @@ function onGeoEr()
     alert("위치 정보를 가져올 수 없습니다!");
 }
 
-navigator.geolocation.getCurrentPosition(onGeoOk, onGeoEr); 
+navigator.geolocation.getCurrentPosition(onGeoOk, onGeoEr);
